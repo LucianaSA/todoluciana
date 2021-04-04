@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513449125267",
+    "project_id": "todoluciana-6b54c",
+    "storage_bucket": "todoluciana-6b54c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513449125267:android:ba98e63c159bba5f737466",
+        "android_client_info": {
+          "package_name": "com.example.todoluciana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513449125267-qcatjt7f6gr5p3vubt3htb83bj472ohu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpNSUxRpRAZOBY0zmJXljqBFyiWws23s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513449125267-qcatjt7f6gr5p3vubt3htb83bj472ohu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
